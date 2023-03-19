@@ -2,7 +2,7 @@
 Welcome to my page!  
 I'm Alysson, Fullstack developer from <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="13"> **João Pessoa, Brazil**.
 
-### My tech:  
+### Tech i use:  
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black) 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) 
