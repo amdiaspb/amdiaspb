@@ -1,5 +1,5 @@
 # 😁 Hey! Sup?  
-My name is **Alysson**, and I'm a web developer from <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="13"> **João Pessoa - Brazil** with a passion for all things tech. I mainly work with front-end technologies such as **HTML**, **CSS**, and **JavaScript**, as well as popular frameworks like **React** and **Node.js**. I also have a strong foundation in **UI/UX** design, thanks to my time playing with graphic design. Nowadays, i'm looking for new ways to challenge myself and grow as a developer, so contact me if you have similar interests or some questions!
+My name is **Alysson**, and I'm a web developer from <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="13"> **João Pessoa - Brazil** with a passion for all things tech. I mainly work with front-end technologies such as **HTML**, **CSS**, and **JavaScript**, as well as popular frameworks like **React** and **Node.js**. I also have a strong foundation in **UI/UX** design, thanks to my background with graphic design. Nowadays, i'm looking for new ways to challenge myself and grow as a developer, so contact me if you have similar interests or some questions!
 
 ### Tech i use:  
 
